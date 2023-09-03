@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone, I'm Pratik Mulik</h1>
+<h1 align="center">Hello, I'm Pratik Mulik</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pm0049&label=Profile%20views&color=0e75b6&style=flat" alt="pm0049" /> </p>
